@@ -51,7 +51,17 @@
                 <version>2.5</version>
             </plugin>
 
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-changelog-plugin</artifactId>
+            </plugin>
+
         </plugins>
     </reporting>
+
+    <scm>
+        <connection>scm:git:git://github.com/Florian14/tpmaven.git</connection>
+        <url>https://github.com/Florian14/tpmaven.git</url>
+    </scm>
 
 </project>
