@@ -22,8 +22,6 @@ public class App {
         tmp = arg;
         if(true) {
             return arg;
-        } else if(true) {
-            return tmp;
         }
 
         return tmp;

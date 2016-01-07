@@ -60,7 +60,7 @@
     </reporting>
 
     <scm>
-        <connection>scm:git:git://github.com/Florian14/tpmaven.git</connection>
+        <connection>scm:git:https://github.com/Florian14/tpmaven.git</connection>
         <url>https://github.com/Florian14/tpmaven.git</url>
     </scm>
 
